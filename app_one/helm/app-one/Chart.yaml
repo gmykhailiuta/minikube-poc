@@ -1,0 +1,6 @@
+apiVersion: v2
+name: app-one
+description: App one
+type: application
+version: 0.1.0
+appVersion: 0.1

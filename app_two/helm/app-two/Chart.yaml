@@ -1,0 +1,10 @@
+apiVersion: v2
+name: app-two
+description: App two
+type: application
+version: 0.1.0
+dependencies:
+  - name: app-one
+    repository: app-one
+    enabled: True
+appVersion: 0.1.1
