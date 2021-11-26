@@ -15,6 +15,14 @@ There're 2 microservices. First one exposes next JSON document:
 Second one utilizes the first and displays reversed message text.
 
 
+## Stack
+
+- Minikube
+- Docker
+- Python/Flask
+- Helm3
+
+
 ## Repository structure
 ```
 .
